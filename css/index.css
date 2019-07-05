@@ -1,0 +1,45 @@
+.sunday{
+    width:7.5rem;
+    height:13.4rem;
+    background: url(../img/qidong.png) no-repeat;
+    background-size: 100%;
+    position: relative;
+}
+.sunday .jump{
+    width: 0.98rem;
+	height: 0.48rem;
+	border-radius: 0.24rem;
+    border: solid 0.02rem #687cff;
+    font-size: 0.24rem;
+    color: #ffffff;
+    text-align: center;
+    line-height: 0.48rem;
+    position: absolute;
+    right:0.3rem;
+    top:0.3rem;
+
+}
+.sunday .text1{
+    width: 0.36rem;
+	height: 3.04rem;
+	font-size: 0.5rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0.05rem;
+    color: #ffffff;
+    position: absolute;
+    top:5rem;
+    left:1rem;
+}
+.sunday .text2{
+    width: 0.36rem;
+	height: 3.04rem;
+	font-size: 0.5rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0.05rem;
+    color: #ffffff;
+    position: absolute;
+    top:3rem;
+    left:2rem;
+}
