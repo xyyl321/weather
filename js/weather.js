@@ -1,6 +1,6 @@
 let url = "https://free-api.heweather.net/s6/weather/now?"
-let texts = "广州"
-let key = "fd10f737bdd14e6cbb94541bb04040f0"
+let texts = "太原"
+let key = "05acc406d6c842b4a5a14804f3c5ab6e"
 let url1 = "https://free-api.heweather.net/s6/air/now?"
 let url2 = "https://free-api.heweather.net/s6/weather/forecast?"
 function Daytay(url, key, texts) {
